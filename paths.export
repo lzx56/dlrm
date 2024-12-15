@@ -1,0 +1,8 @@
+export BASE_PATH=/root/nfs/isca23_dlrm
+export CMAKE_PREFIX_PATH=/opt/conda/envs/dlrm_cpu
+export IPEX_PATH=/root/nfs/isca23_dlrm/intel-extension-for-pytorch
+export VTUNE_PROFILER_DIR=/opt/intel/oneapi/vtune/latest
+export DLRM_SYSTEM=/root/nfs/isca23_dlrm/reproduce_isca23_cpu_DLRM_inference
+export MODELS_PATH=/root/nfs/isca23_dlrm/reproduce_isca23_cpu_DLRM_inference/models
+export HW_PF=/root/nfs/isca23_dlrm/msr-tools
+export TORCH_PATH=/root/nfs/isca23_dlrm/pytorch
